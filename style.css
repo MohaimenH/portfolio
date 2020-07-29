@@ -40,7 +40,7 @@ html {
     font-size: 20px;
     padding: 16px;
 
-    text-shadow: 0px 0px 10px black;
+    text-shadow: 0px 0px 8px black;
 }
 
 #navlist a:hover {
@@ -62,20 +62,31 @@ html {
 }
 
 #welcome-section > h1 {
-    font-size: 50px;
+    font-size: 80px;
     font-family: 'Poppins', sans-serif;
 }
 
 #welcome-section > p {
-    font-size: 40px;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
     font-style: italic;
     margin-top: 15px;
 }
 
-#projects-section {
+#projects {
+
     margin-top: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
+}
+
+#projects> h1 {
+    
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: underline;
+
 }
