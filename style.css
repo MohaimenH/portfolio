@@ -97,7 +97,7 @@ html {
 
   animation-name: p-anim;
   animation-timing-function: linear;
-  animation-duration: 1.5s;
+  animation-duration: 0.8s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
 }
